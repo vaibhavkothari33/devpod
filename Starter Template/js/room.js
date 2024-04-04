@@ -1,9 +1,9 @@
 let messagesContainer = document.getElementById('messages');
 messagesContainer.scrollTop = messagesContainer.scrollHeight;
-
+//  scroll for the message chat 
 const memberContainer = document.getElementById('members__container');
 const memberButton = document.getElementById('members__button');
-
+// responsive templete
 const chatContainer = document.getElementById('messages__container');
 const chatButton = document.getElementById('chat__button');
 
